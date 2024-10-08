@@ -1,0 +1,66 @@
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\MySql.Data.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Buffers.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Memory.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Zstandard.Net.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\MySql.Data.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\Renci.SshNet.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Buffers.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Memory.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\c sharp\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\MySql.Data.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Buffers.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Memory.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Zstandard.Net.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\MySql.Data.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Renci.SshNet.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Buffers.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Memory.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kirill\Desktop\projektas_Oro_Uostas\project_Airport\DatabaseLayer\bin\Debug\Newtonsoft.Json.xml
